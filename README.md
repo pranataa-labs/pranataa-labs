@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color: #7E3FED;">Muhammad Aria Sastra</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A855F7&background=0D111700&center=true&vCenter=true&width=620&lines=Certified+Vibecoder+✨;Frontend+%26+Fullstack+Enthusiast;Mastering+the+Dark+Art+of+Centering+Divs;Python+%26+Financial+Data+Science;Building+Aesthetic+Web+Experiences" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=500&color=7E3FED&background=0D1117&center=true&vCenter=true&width=600&lines=Certified+Vibecoder;Frontend+and+Fullstack+Enthusiast;Centering+Divs+Specialist;Building+Aesthetic+Web+Apps" alt="Typing animation"/>
 </p>
 
 <p align="center">
