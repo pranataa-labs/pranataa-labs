@@ -79,4 +79,4 @@ Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
   <i>"Code with logic, ship with vibes, and never forget to test in production (just kidding, maybe)."</i><br/>
   ⭐ Crafted with curiosity & coffee by <b>pranataa-labs</b>.
 </p>
-<!-- ⚡ Vibecoder ecosystem & open-source enthusiast -->
+<!-- ⚡ Vibecoder ecosystem & open-source developer -->
