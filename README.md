@@ -58,11 +58,25 @@ Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎂 [**CakeLuv**](https://github.com/pranataa-labs/CakeLuv) | E-commerce / Bakery ordering web platform | `PHP` `Laravel` `Blade` |
+| 🎂 [**CakeLuv**](https://github.com/pranataa-labs/CakeLuv) | E-commerce / Bakery ordering platform with Midtrans & Shadcn-Admin | `Laravel 13` `Tailwind v4` `Midtrans` |
+| 📦 [**Inventory Studio**](https://github.com/pranataa-labs/Inventory-Management-System) | Enterprise inventory management system & 12-month stock analytics | `PHP` `Tailwind` `Shadcn-UI` |
+| 🕌 [**Website Masjid**](https://github.com/pranataa-labs/Website-Masjid) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
 | 🎭 [**Eventix-THEATRE**](https://github.com/pranataa-labs/Eventix-THEATRE) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
-| 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique flower catalog & customer ordering | `PHP` `Web` |
+| 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store, checkout flow & admin management panel | `PHP` `Tailwind` `MySQL` |
 | 📊 [**Volatility & Trading Models**](https://github.com/pranataa-labs/cpi-gold-tail-volatility-forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
 | 🌐 [**Personal Portfolio**](https://pranatagm.github.io/portfolio/#) | Interactive portfolio showcasing projects and expertise | `HTML` `CSS` `JavaScript` |
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
