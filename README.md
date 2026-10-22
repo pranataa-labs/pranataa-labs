@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pranatagm.github.io/portfolio/#" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-7E3FED?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://pranataa-labs.github.io/portfolio/#" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-7E3FED?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:pranatagaming375341@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/pranataa-labs"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
