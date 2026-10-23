@@ -1,85 +1,78 @@
 <h1 align="center">Hi there, I'm <span style="color: #7E3FED;">Muhammad Aria Sastra</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=500&color=7E3FED&background=0D1117&center=true&vCenter=true&width=600&lines=Certified+Vibecoder;Frontend+and+Fullstack+Enthusiast;Centering+Divs+Specialist;Building+Aesthetic+Web+Apps" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=500&color=7E3FED&background=0D1117&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Laravel+%26+Next.js+Specialist;Data+Science+%26+Quant+Enthusiast;Building+Production-Ready+Apps" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <a href="https://pranataa-labs.github.io/portfolio/#" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-7E3FED?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/pranataa-labs/Personal-Portfolio" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-7E3FED?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:pranatagaming375341@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/pranataa-labs"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile & Biography
 
 ```yaml
 Name: Muhammad Aria Sastra
-Role: Informatics Student & Vibecoder
+Role: Full-Stack Software Engineer & Data Scientist
 Location: Yogyakarta, Indonesia 🇮🇩
-Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
+Focus: Production-Ready Software Engineering, Full-Stack Applications & Applied Analytics
+Standards: Compliant with Workflow Master Engineering Discipline
 ```
 
-* 🎓 **Informatics / Computer Science** student passionate about modern web technologies and applied data science.
-* 🧙‍♂️ Currently mastering the dark art of centering a `<div>` without breaking the entire layout.
-* 🤖 Blending **Vibecode** & **Machine Learning**: from crafting aesthetic web applications to experimenting with intelligent models.
-* 🌙 **Nocturnal builder**: writing code at 3 AM with lo-fi beats and pure vibes.
-* 🦜 *Pokoknya kicau kicau mania!*
+* 🎓 **Informatics & Computer Science** professional focused on resilient web applications and institutional information systems.
+* ⚡ Creator and maintainer of **Workflow Master**, the production-ready software engineering operating system for humans and autonomous AI assistants.
+* 🛡️ Passionate about **Defensive Engineering**: strict RBAC, Admin Route Obfuscation, zero-trust backend boundaries, and comprehensive test suites.
+* 🤖 Active explorer in **Applied Data Science & Machine Learning**: financial time-series forecasting, natural language processing, and statistical analytics.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Technology Stack & Engineering Arsenal
 
-### 💻 Languages & Frontend
+### 💻 Programming Languages & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Data
+### ⚙️ Backend, Frameworks & Databases
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🧰 Tools & Workflow
+### 🧰 Tools, DevOps & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vibes](https://img.shields.io/badge/Pure_Vibes-FF69B4?style=for-the-badge&logo=smashingmagazine&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Technology Stack |
 | :--- | :--- | :--- |
-| 🎂 [**CakeLuv**](https://github.com/pranataa-labs/CakeLuv) | E-commerce / Bakery ordering platform with Midtrans & Shadcn-Admin | `Laravel 13` `Tailwind v4` `Midtrans` |
-| 📦 [**Inventory Studio**](https://github.com/pranataa-labs/Inventory-Management-System) | Enterprise inventory management system & 12-month stock analytics | `PHP` `Tailwind` `Shadcn-UI` |
-| 🕌 [**Website Masjid**](https://github.com/pranataa-labs/Website-Masjid) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
-| 🎭 [**Eventix-THEATRE**](https://github.com/pranataa-labs/Eventix-THEATRE) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
-| 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store, checkout flow & admin management panel | `PHP` `Tailwind` `MySQL` |
-| 📊 [**Volatility & Trading Models**](https://github.com/pranataa-labs/cpi-gold-tail-volatility-forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
-| 🌐 [**Personal Portfolio**](https://pranatagm.github.io/portfolio/#) | Interactive portfolio showcasing projects and expertise | `HTML` `CSS` `JavaScript` |
+| ⚡ [**Workflow-Master**](https://github.com/pranataa-labs/Workflow-Master) | Software engineering operating system & 12 production-ready rule packages | `Standards` `DevOps` `QA` `Security` |
+| 🎂 [**Cake-Luv**](https://github.com/pranataa-labs/Cake-Luv) | E-commerce bakery ordering platform with Midtrans & Shadcn-Admin | `Laravel 13` `Tailwind v4` `Midtrans` |
+| 📦 [**Inventory-Management-System**](https://github.com/pranataa-labs/Inventory-Management-System) | Enterprise inventory management system with multi-warehouse tracking | `Laravel 13` `Filament v3` `Shadcn-UI` |
+| 🎭 [**Eventix-Theatre**](https://github.com/pranataa-labs/Eventix-Theatre) | Event ticketing system with dynamic quotas & QR E-Ticket PDFs | `Laravel 13` `Filament v3` `Midtrans` |
+| 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store with Google SSO, checkout flow & admin suite | `Laravel 13` `Tailwind v4` `MySQL` |
+| 🏛️ [**Village-Information-System**](https://github.com/pranataa-labs/Village-Information-System) | Modern public service e-portal & municipal administration platform | `Next.js 16` `TypeScript` `Prisma` |
+| 🕌 [**Mosque-Management-System**](https://github.com/pranataa-labs/Mosque-Management-System) | Mosque community portal with transparent financial ledgers | `Laravel 12` `Tailwind CSS` `MySQL` |
+| ☕ [**The-Boss-Izmir**](https://github.com/pranataa-labs/The-Boss-Izmir) | Luxury cafe & lounge portal with localized Turkish backoffice | `Laravel 13` `Filament v3` `Tailwind` |
+| 📈 [**CPI-Gold-Tail-Volatility-Forecasting**](https://github.com/pranataa-labs/CPI-Gold-Tail-Volatility-Forecasting) | Quantitative macro volatility prediction for Gold (XAU/USD) | `Python` `Jupyter` `Machine Learning` |
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pranataa-labs/pranataa-labs/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
-
----
-
-## ⚡ GitHub Stats
+## ⚡ GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranataa-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3FED&icon_color=F7DF1E&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
@@ -89,7 +82,5 @@ Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
 ---
 
 <p align="center">
-  <i>"Code with logic, ship with vibes, and never forget to test in production (just kidding, maybe)."</i><br/>
-  ⭐ Crafted with curiosity & coffee by <b>pranataa-labs</b>.
+  ⭐ Maintained with passion & precision by <b>pranataa-labs</b>.
 </p>
-<!-- ⚡ Vibecoder ecosystem & open-source builder -->
