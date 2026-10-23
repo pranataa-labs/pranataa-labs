@@ -23,7 +23,7 @@ Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
 
 * 🎓 **Informatics / Computer Science** student passionate about modern web technologies and applied data science.
 * 🧙‍♂️ Currently mastering the dark art of centering a `<div>` without breaking the entire layout.
-* 📈 Exploring quantitative insights: from building e-commerce systems to gold volatility forecasting (CPI & FOMC).
+* 🤖 Blending **Vibecode** & **Machine Learning**: from crafting aesthetic web applications to experimenting with intelligent models.
 * 🌙 **Nocturnal builder**: writing code at 3 AM with lo-fi beats and pure vibes.
 * 🦜 *Pokoknya kicau kicau mania!*
 
