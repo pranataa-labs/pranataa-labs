@@ -18,7 +18,7 @@
 Name: Muhammad Aria Sastra
 Role: Informatics Student & Vibecoder
 Location: Yogyakarta, Indonesia 🇮🇩
-Current Vibe: "50% coding, 50% refreshing the browser to see if the CSS behaved"
+Current Vibe: "100% vibe-coding, 50% refreshing the browser to see if the CSS behaved"
 ```
 
 * 🎓 **Informatics / Computer Science** student passionate about modern web technologies and applied data science.
