@@ -82,8 +82,8 @@ Current Vibe: "100% vibe-coding, 50% refreshing the browser to see if the CSS be
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranataa-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3FED&icon_color=F7DF1E&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranataa-labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3FED&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pranataa-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3FED&icon_color=F7DF1E&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pranataa-labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3FED&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
 
 ---
