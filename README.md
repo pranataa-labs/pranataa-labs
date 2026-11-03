@@ -57,13 +57,13 @@ Current Vibe: "100% vibe-coding, 50% refreshing the browser to see if the CSS be
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔐 [**Steganografi-Encryption**](https://github.com/pranataa-labs/Steganografi-Encryption) | AES-256-GCM encrypted LSB digital steganography & WhatsApp transmission analysis | `Python` `AES-256` `OpenCV` `Jupyter` |
-| 🪙 [**XAU-Daily-Trading-Strategy**](https://github.com/pranataa-labs/XAU-Daily-Trading-Strategy) | Quantitative daily trading strategy for Gold (XAU/USD) capturing session volatility (+64.08R) | `Python` `Quantitative Trading` `Jupyter` |
-| 🕌 [**Website Masjid**](https://github.com/pranataa-labs/Mosque-Management-System) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
-| 🎭 [**Eventix-THEATRE**](https://github.com/pranataa-labs/Eventix-Theatre) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
-| 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store, checkout flow & admin management panel | `PHP` `Tailwind` `MySQL` |
-| 📊 [**Volatility & Trading Models**](https://github.com/pranataa-labs/CPI-Gold-Tail-Volatility-Forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
-| 📈 [**Indonesia-Mutual-Fund-Analytics**](https://github.com/pranataa-labs/Indonesia-Mutual-Fund-Analytics) | Institutional quantitative analytics & interactive dashboard for Indonesian mutual funds | `JavaScript` `Chart.js` `Data Analytics` |
+| [**Steganografi-Encryption**](https://github.com/pranataa-labs/Steganografi-Encryption) | AES-256-GCM encrypted LSB digital steganography & WhatsApp transmission analysis | `Python` `AES-256` `OpenCV` `Jupyter` |
+| [**XAU-Daily-Trading-Strategy**](https://github.com/pranataa-labs/XAU-Daily-Trading-Strategy) | Quantitative daily trading strategy for Gold (XAU/USD) capturing session volatility (+64.08R) | `Python` `Quantitative Trading` `Jupyter` |
+| [**Mosque-Management-System**](https://github.com/pranataa-labs/Mosque-Management-System) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
+| [**Eventix-Theatre**](https://github.com/pranataa-labs/Eventix-Theatre) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
+| [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store, checkout flow & admin management panel | `PHP` `Tailwind` `MySQL` |
+| [**Volatility & Trading Models**](https://github.com/pranataa-labs/CPI-Gold-Tail-Volatility-Forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
+| [**Indonesia-Mutual-Fund-Analytics**](https://github.com/pranataa-labs/Indonesia-Mutual-Fund-Analytics) | Institutional quantitative analytics & interactive dashboard for Indonesian mutual funds | `JavaScript` `Chart.js` `Data Analytics` |
 
 ---
 
