@@ -57,13 +57,13 @@ Current Vibe: "100% vibe-coding, 50% refreshing the browser to see if the CSS be
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎂 [**CakeLuv**](https://github.com/pranataa-labs/CakeLuv) | E-commerce / Bakery ordering platform with Midtrans & Shadcn-Admin | `Laravel 13` `Tailwind v4` `Midtrans` |
-| 📦 [**Inventory Studio**](https://github.com/pranataa-labs/Inventory-Management-System) | Enterprise inventory management system & 12-month stock analytics | `PHP` `Tailwind` `Shadcn-UI` |
-| 🕌 [**Website Masjid**](https://github.com/pranataa-labs/Website-Masjid) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
-| 🎭 [**Eventix-THEATRE**](https://github.com/pranataa-labs/Eventix-THEATRE) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
+| 🔐 [**Steganografi-Encryption**](https://github.com/pranataa-labs/Steganografi-Encryption) | AES-256-GCM encrypted LSB digital steganography & WhatsApp transmission analysis | `Python` `AES-256` `OpenCV` `Jupyter` |
+| 🪙 [**XAU-Daily-Trading-Strategy**](https://github.com/pranataa-labs/XAU-Daily-Trading-Strategy) | Quantitative daily trading strategy for Gold (XAU/USD) capturing session volatility (+64.08R) | `Python` `Quantitative Trading` `Jupyter` |
+| 🕌 [**Website Masjid**](https://github.com/pranataa-labs/Mosque-Management-System) | Mosque community portal, transparent finance & prayer schedules | `Laravel` `Blade` `MySQL` |
+| 🎭 [**Eventix-THEATRE**](https://github.com/pranataa-labs/Eventix-Theatre) | Modern event & ticketing management system | `PHP` `Blade` `MySQL` |
 | 🌸 [**Fleure-Flower**](https://github.com/pranataa-labs/Fleure-Flower) | Boutique florist store, checkout flow & admin management panel | `PHP` `Tailwind` `MySQL` |
-| 📊 [**Volatility & Trading Models**](https://github.com/pranataa-labs/cpi-gold-tail-volatility-forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
-| 🌐 [**Personal Portfolio**](https://pranatagm.github.io/portfolio/#) | Interactive portfolio showcasing projects and expertise | `HTML` `CSS` `JavaScript` |
+| 📊 [**Volatility & Trading Models**](https://github.com/pranataa-labs/CPI-Gold-Tail-Volatility-Forecasting) | CPI / FOMC Gold tail volatility forecasting & trading strategies | `Python` `Jupyter` `NLP` |
+| 📈 [**Indonesia-Mutual-Fund-Analytics**](https://github.com/pranataa-labs/Indonesia-Mutual-Fund-Analytics) | Institutional quantitative analytics & interactive dashboard for Indonesian mutual funds | `JavaScript` `Chart.js` `Data Analytics` |
 
 ---
 
